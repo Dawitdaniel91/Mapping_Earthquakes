@@ -27,6 +27,7 @@ Map 2
 ![image](https://user-images.githubusercontent.com/80365882/121583560-44915100-c9e5-11eb-8fae-9873c514ece4.png)
 
 Deliverable 3: Add an Additional Map
+
 By Using knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
 
 Map 3
