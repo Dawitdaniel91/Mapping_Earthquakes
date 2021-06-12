@@ -1,8 +1,11 @@
 # Mapping_Earthquakes
 ## Overview of Project
 The purpose of this project is to gather earthquake GeoJSON data from the USGS API, create and explore interactive maps of earthquakes around the world.From the project, expected to deliver the folowing output:-
+
 Deliverable 1: Add Tectonic Plate Data
+
 Deliverable 2: Add Major Earthquake Data
+
 Deliverable 3: Add an Additional Map
 
 ## Tech-Overview
