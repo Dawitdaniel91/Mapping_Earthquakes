@@ -1,15 +1,12 @@
 # Mapping_Earthquakes
 ## Overview of Project
-The Purpose of this project is to visualize the differences between the magnitudes of earthquakes all over the world for the last seven days.From the project, expected to deliver the folowing output:-
+The purpose of this project is to gather earthquake GeoJSON data from the USGS API, create and explore interactive maps of earthquakes around the world.From the project, expected to deliver the folowing output:-
 Deliverable 1: Add Tectonic Plate Data
 Deliverable 2: Add Major Earthquake Data
 Deliverable 3: Add an Additional Map
 
 ## Tech-Overview
 For the project , we are using  the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. 
-
-## Tasks 
-In the project using a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
 
 ## Deliverable 1: Add Tectonic Plate Data
 By Using  knowledge of JavaScript, Leaflet.js, and geoJSON data,add tectonic plate data using d3.json(), and add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
