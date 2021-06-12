@@ -21,7 +21,7 @@ The codes uses for adding the second layer is
 
 ## Deliverable 2: Add Major Earthquake Data
 
-By Using your knowledge of JavaScript, Leaflet.js, and geoJSON data,  add major earthquake data to the map using d3.json(), and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
+By Using knowledge of JavaScript, Leaflet.js, and geoJSON data,  add major earthquake data to the map using d3.json(), and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
 
 Map 2
 ![image](https://user-images.githubusercontent.com/80365882/121583560-44915100-c9e5-11eb-8fae-9873c514ece4.png)
